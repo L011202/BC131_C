@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\VScode\BC131_C\BC131_C_2024_3_30\BC131_C_2024_3_30\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  BC131_C_2024_3_30.vcxproj -> D:\VScode\BC131_C\BC131_C_2024_3_30\x64\Debug\BC131_C_2024_3_30.exe
